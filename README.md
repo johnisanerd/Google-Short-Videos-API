@@ -251,4 +251,4 @@ New to Cursor? Get it here: https://cursor.com/referral?code=XQP4VBLI3NNX
 
 *Use the Google Short Videos API to power your data workflows with reliable, structured results.*
 
-Last Updated: 2026.08.30
+Last Updated: 2026.08.31
